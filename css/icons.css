@@ -1,0 +1,157 @@
+@charset "utf-8";
+/* CSS Document */
+
+.fa-default {
+	display:block;
+	width:20px;
+	height:20px;
+	background-position:center center;
+	background-repeat:no-repeat;
+}
+.fa-circle {
+    background-position: center center;
+    background-repeat: no-repeat;
+    border: 1px solid #435360;
+    border-radius: 10px;
+    display: block;
+    height: 20px;
+    width: 20px;
+}
+.fa-circle-36 {
+	display:block;
+	width:36px;
+	height:36px;
+	border-radius:18px;
+	background-position:center center;
+	background-repeat:no-repeat;
+	background-color:#68707b;
+} 
+
+.fa-40-blue {
+	display:block;
+	width:40px;
+	height:40px;
+	background-position:center center;
+	background-repeat:no-repeat;
+	background-color:#179fdb;
+	cursor:pointer;
+}
+.fa-90-120 {
+	display:block;
+	width:90px;
+	height:120px;
+	background-position:center center;
+	background-repeat:no-repeat;
+}
+.fa-60-50 {
+	display:block;
+	width:60px;
+	height:50px;
+	background-position:center center;
+	background-repeat:no-repeat;
+	background-color:#179fdb;
+}
+
+.fa-phone {
+	background-image:url(../images/icons/icon-phone.png);
+}
+.fa-phone-white {
+	background-image:url(../images/icons/icon-phone-white.png);
+}
+.fa-mail-white {
+	background-image:url(../images/icons/icon-mail-white.png);
+}
+.fa-baloon {
+	background-image:url(../images/icons/icon-baloon.png);
+}
+.fa-clock {
+	background-image:url(../images/icons/icon-clock.png);
+}
+.fa-note {
+	background-image:url(../images/icons/icon-note.png);
+}
+.fa-user {
+	background-image:url(../images/icons/icon-user.png);
+}
+.fa-basket-black {
+	background-image:url(../images/icons/icon-basket-black.png);
+} 
+.fa-range {
+	background-image:url(../images/icons/icon-range.png);
+}
+.fa-installation {
+	background-image:url(../images/icons/icon-installation.png);
+}
+.fa-prices {
+	background-image:url(../images/icons/icon-prices.png);
+}
+.fa-direct {
+	background-image:url(../images/icons/icon-direct.png);
+}
+.fa-conditions {
+	background-image:url(../images/icons/icon-conditions.png);
+}
+.fa-list {
+    background-color: #fff;
+    background-image: url("../images/icons/icon-list.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-color: #dee5e8 #dee5e8 #dee5e8 -moz-use-text-color;
+    border-style: solid solid solid none;
+    border-width: 1px 0;
+    display: block;
+    height: 60px;
+    width: 38px;
+}
+.fa-table {
+    background-color: #fff;
+    background-image: url("../images/icons/icon-table.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-color: #dee5e8 #dee5e8 #dee5e8 -moz-use-text-color;
+    border-style: solid solid solid none;
+    border-width: 1px 1px 1px 0;
+    display: block;
+    height: 60px;
+    width: 38px;
+}
+
+.fa-basket {
+	display:block;
+	background-image:url(../images/icons/icon-basket.png);
+	width:20px;
+	height:21px;
+}
+
+.fa-user-2x {
+	display:block;
+	background-image:url(../images/icons/icon-user-white.png);
+	width:15px;
+	height:22px;
+}
+.fa-user-white {
+	background-image:url(../images/icons/icon-user-white.png);
+} 
+.fa-close {
+	background-image:url(../images/icons/icon-close.png);
+} 
+
+.fa-place-order {
+	display:block;
+	background-image:url(../images/icons/icon-place-order.png);
+	width:21px;
+	height:21px;
+}
+.fa-email-2x {
+	background-image:url(../images/icons/icon-mail-white-2x.png);
+}
+
+.fa-calendar {
+	background-image:url(../images/icons/icon-calendar.png);
+}
+.fa-mobile-menu {
+	background-image:url(../images/icons/icon-mobile-nav.png);
+	width:35px;
+	height:35px;
+	display:block;
+}
